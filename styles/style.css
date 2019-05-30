@@ -127,3 +127,14 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+header {
+  width: 100%;
+  background-color: #2574a9;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+}
